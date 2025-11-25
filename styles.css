@@ -9,13 +9,7 @@ body {
     background: #fafafa;
     color: #333;
     line-height: 1.6;
-
-    /* 25% scaling */
-    transform: scale(1.25);
-    transform-origin: top left;
-    width: 80%; /* prevents horizontal overflow */
 }
-
 
 /* Minimalist Header */
 header {
